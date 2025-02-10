@@ -1,5 +1,5 @@
 # Healthcare-appointment
-Predicts if the patient has showed up for appointment or not
+Predicts if the patient has showed up for appointment or not. 
 All over the globe, significant amounts of patients miss their appointments without cancelling in time or even cancelling at all, resulting in billions of dollars wasted yearly due to increased idle time, overtime and waiting time that the other patients and hospitals face.
 Hospitals are actively trying to implement methods to try to reduce the idle time caused by patient no-shows by using overbooking and reminder systems. 
 However, these two methods can be very costly. Overbooking can lead to patient dissatisfaction and constant personalized reminders, such as phone calls, to every patient can be annoying and costly in terms of manpower
